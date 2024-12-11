@@ -1,0 +1,2 @@
+in order to use the app with firebase from your own ther is need to add DoogleService-Info.plist.
+this file been removed beacuse safety.
