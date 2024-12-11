@@ -56,7 +56,7 @@ AniListIfy is licensed under the MIT License. see the LICENSE file for details.
 
 ## 👨‍💻 Author
 Developed by Itzhak Rouach <br>
-Connect with me: <br>
+Contact with me: <br>
 - **GitHub**: ItzhakRouach.
 - **Email**: Tzachiruash12345@gmail.com
 
