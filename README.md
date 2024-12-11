@@ -15,22 +15,22 @@ AniListify is a SwiftUI-based iOS app that allows users to search, track, and ma
 ## 🎨 Screenshots 
 
 ### Login Screen 
-<img src="Screenshots/HomeApp.PNG" alt="Search Results" width="400">
+<img src="Screenshots/LoginApp.PNG" alt="Search Results" width="200">
 
 ## Register Screen
-![Register Screen](Screenshots/RegisterApp.JPG)
+<img src="Screenshots/RegisterApp.PNG" alt="Search Results" width="200">
 
 ## Home Screen
-![Home Screen](Screenshots/HomeApp.JPG)
+<img src="Screenshots/HomeApp.PNG" alt="Search Results" width="200">
 
 ## Search Results
-![Search Results Screen](Screenshots/SearchApp.JPG)
+<img src="Screenshots/SearchApp.PNG" alt="Search Results" width="200">
 
 ## List Screen
-![List Screen](Screenshots/ListApp.JPG)
+<img src="Screenshots/ListApp.PNG" alt="Search Results" width="200">
 
 ## Profile Screen
-![Profile Screen](Screenshots/ProfileApp.JPG)
+<img src="Screenshots/ProfileApp.PNG" alt="Search Results" width="200">
 
 ## 🔧 Technologies Used
 
