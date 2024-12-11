@@ -27,11 +27,6 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1535FB7A2D09CDA500CAF52D /* Screenshots */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Screenshots;
-			sourceTree = "<group>";
-		};
 		159FDCFF2CFD3734002E0247 /* AniListIfy */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -59,7 +54,6 @@
 		159FDCF42CFD3734002E0247 = {
 			isa = PBXGroup;
 			children = (
-				1535FB7A2D09CDA500CAF52D /* Screenshots */,
 				159FDCFF2CFD3734002E0247 /* AniListIfy */,
 				159FDCFE2CFD3734002E0247 /* Products */,
 			);
@@ -89,7 +83,6 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1535FB7A2D09CDA500CAF52D /* Screenshots */,
 				159FDCFF2CFD3734002E0247 /* AniListIfy */,
 			);
 			name = AniListIfy;
