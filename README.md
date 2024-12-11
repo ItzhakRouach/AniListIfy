@@ -43,9 +43,9 @@ AniListify is a SwiftUI-based iOS app that allows users to search, track, and ma
 ## 🌐 API Refernce
 
 ### Jikan API
--**Base URL**: "http/api.jikan.moe/v4"
--**Endpoints used**:
--**Search Anime**: '/anime?q=(query)'
+- **Base URL**: "http/api.jikan.moe/v4"
+- **Endpoints used**:
+- **Search Anime**: '/anime?q=(query)'
 
 ##Example API Call**:
 '''bash 
@@ -57,9 +57,9 @@ AniListIfy is licensed under the MIT License. see the LICENSE file for details.
 ## 👨‍💻 Author
 Developed by Itzhak Rouach <br>
 Connect with me: <br>
--**GitHub**: ItzhakRouach.
--**Email**: Tzachiruash12345@gmail.com
+- **GitHub**: ItzhakRouach.
+- **Email**: Tzachiruash12345@gmail.com
 
 ##  Acknowledgements
--**Jikan API** for providing real-time anime data.
--**Firebase** for user authentication and data storage.
+- **Jikan API** for providing real-time anime data.
+- **Firebase** for user authentication and data storage.
