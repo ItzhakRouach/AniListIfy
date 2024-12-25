@@ -15,23 +15,26 @@ AniListify is a SwiftUI-based iOS app that allows users to search, track, and ma
 
 ## 🎨 Screenshots 
 
+### Custom App Icon Created by Itzhak Rouach
+<img src = "Screenshots/appstore.png" alt = "Anilistify Icon " width = "200">
+
 ### Login Screen 
-<img src="Screenshots/LoginApp.PNG" alt="Search Results" width="200">
+<img src="Screenshots/LoginApp.PNG" alt="Login screen" width="200">
 
 ## Register Screen
-<img src="Screenshots/RegisterApp.PNG" alt="Search Results" width="200">
+<img src="Screenshots/RegisterApp.PNG" alt="Register screen" width="200">
 
 ## Home Screen
-<img src="Screenshots/HomeApp.PNG" alt="Search Results" width="200">
+<img src="Screenshots/HomeApp.PNG" alt="Home Screen" width="200">
 
 ## Search Results
 <img src="Screenshots/SearchApp.PNG" alt="Search Results" width="200">
 
 ## List Screen
-<img src="Screenshots/IMG_50EF38F2313A-1.jpeg" alt="Search Results" width="200">
+<img src="Screenshots/IMG_50EF38F2313A-1.jpeg" alt="List screen" width="200">
 
 ## Profile Screen
-<img src="Screenshots/ProfileApp.PNG" alt="Search Results" width="200">
+<img src="Screenshots/ProfileApp.PNG" alt="Profile screen" width="200">
 
 ## 🔧 Technologies Used
 
