@@ -8,7 +8,8 @@ AniListify is a SwiftUI-based iOS app that allows users to search, track, and ma
 
 - **Search Anime**: Search for your favorite anime titles using the Jikan API.
 - **Add Anime to List**: Keep track of anime you love by adding them to your personalized list.
-- **Manage Anime List**: View, update, and delete items from your anime list.
+- **Manage Anime List**: View, Ranking ,update, and delete items from your anime list.
+- **Anime Info: Let user to view the anime selected information such as Ranking,Description in new sheet.
 - **User Authentication**: Sign up, log in, and manage your profile with Firebase Authentication.
 - **Persistent Storage**: Save and sync your anime list using Firestore.
 
